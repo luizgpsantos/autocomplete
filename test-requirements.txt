@@ -1,0 +1,4 @@
+ipdb
+unittest2
+nose
+pinocchio
